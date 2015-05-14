@@ -15,4 +15,4 @@ npm install ymzkmct --save
 
 ## License
 
-MIT
+MIT(code only)
