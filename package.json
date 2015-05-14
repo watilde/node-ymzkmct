@@ -1,0 +1,22 @@
+{
+  "name": "ymzkmct",
+  "version": "0.0.1",
+  "description": "A npm for ymzkmct",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:watilde/node-ymzkmct.git"
+  },
+  "keywords": [
+    "ymzkmct"
+  ],
+  "author": "Daijiro Wachi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/watilde/node-ymzkmct/issues"
+  },
+  "homepage": "https://github.com/watilde/node-ymzkmct"
+}
