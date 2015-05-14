@@ -10,6 +10,8 @@ Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't 
 npm install ymzkmct --save
 ```
 
+## Usage
+![screenshot](img/screenshot.png)
 
 ## Tests
 
