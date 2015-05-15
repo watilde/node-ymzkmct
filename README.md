@@ -7,7 +7,7 @@ A npm for ymzkmct
 Download node at [nodejs.org](http://nodejs.org) and install it, if you haven't already.
 
 ```sh
-npm install ymzkmct --save
+npm i -g watilde/node-ymzkmct
 ```
 
 ## Usage
