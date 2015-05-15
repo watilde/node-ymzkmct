@@ -4,4 +4,4 @@ var tube = pictureTube({cols: 65});
 tube.pipe(process.stdout);
 
 var fs = require('fs');
-fs.createReadStream('img/ymzkmct.png').pipe(tube);
+fs.createReadStream(__dirname + '/img/ymzkmct.png').pipe(tube);
